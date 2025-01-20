@@ -1,4 +1,2 @@
-def add():
-    a= int(input("Enterr num"))
-    print(a)
-add()
+def about():
+    print("This is about Page")
